@@ -1,8 +1,6 @@
 __pycache__/
 # Data files
 sqlite3.db
-#migrations/
-migrations/
 # virtual environment
 venv/
 #.env config
